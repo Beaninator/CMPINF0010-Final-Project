@@ -1,0 +1,19 @@
+Mount Washington, 10,415
+Windgap, 1,369
+Troy Hill, 27,141
+Downtown, 4,896
+East Allegheny, 1,866
+South Side Flats, 6,597
+Brookline, 13,511
+Elliott, 2,381
+Morningside, 29,460
+Beechview, of 22,580
+Glenwood, 1,607
+Strip District, 1,212
+Four Mile Run, 1,000
+Perry North, 4,050
+East Liberty, 29,460
+Shadyside, 14,317
+Westwood, 6,214
+Squirrel Hill North, 11,363
+South Side Slopes, 4,423
